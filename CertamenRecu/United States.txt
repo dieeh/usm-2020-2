@@ -1,0 +1,6 @@
+Mayor valor en 2016 de las marcas del rubro Fast-Moving Consumer Goods:
+	Marca: Gillette, valor en US$: 19950000
+	Marca: Pampers, valor en US$: 16392000
+	Marca: Kellogg’s, valor en US$: 11711000
+	Marca: Colgate, valor en US$: 8413000
+	Marca: Johnson & Johnson, valor en US$: 6020000
